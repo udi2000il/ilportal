@@ -1,7 +1,7 @@
 // script.js
 
 // Your NewsAPI key (sign up at https://newsapi.org/ to get your free API key)
-const apiKey = 'YOUR_NEWSAPI_KEY';
+const apiKey = '6fa5859ac298437ca336a1a5b1c099ae';
 
 // The Israeli news source parameter
 const sources = 'ynet,haaretz,jerusalem-post,channel-12';
